@@ -1,0 +1,2 @@
+GET https://www.bingapis.com/api/v7/suggestions?q=sail&mkt=en-us&appId=EB393419BEA5055E94A434FFAA4C690F
+Ocp-Apim-Subscription-Key: EB393419BEA5055E94A434FFAA4C690F

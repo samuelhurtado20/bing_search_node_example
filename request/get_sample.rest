@@ -1,0 +1,2 @@
+ GET https://api.bing.microsoft.com/v7.0/news/search?q=microsoft&appId=EB393419BEA5055E94A434FFAA4C690F
+Ocp-Apim-Subscription-Key: EB393419BEA5055E94A434FFAA4C690F

@@ -1,0 +1,24 @@
+{
+  "name": "bing_search_node_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelhurtado20/bing_search_node_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelhurtado20/bing_search_node_example/issues"
+  },
+  "homepage": "https://github.com/samuelhurtado20/bing_search_node_example#readme",
+  "dependencies": {
+    "azure-cognitiveservices-websearch": "^2.0.0",
+    "ms-rest-azure": "^3.0.1"
+  }
+}
