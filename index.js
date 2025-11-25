@@ -1,7 +1,7 @@
 const CognitiveServicesCredentials = require('ms-rest-azure').CognitiveServicesCredentials;
 const WebSearchAPIClient = require('azure-cognitiveservices-websearch');
 
-let credentials = new CognitiveServicesCredentials('5BF1C25A77E99C9E660D4807AA02A96C');
+let credentials = new CognitiveServicesCredentials('');
 let webSearchApiClient = new WebSearchAPIClient(credentials);
 
 webSearchApiClient.web.search('seahawks').then((result) => {
